@@ -9,6 +9,7 @@ void main()
  
   printf("\nSTUDENT GPA LIST: \n"); 
   printf("ID----Name------------------------GPA\n"); 
+  printf("Goodnight 50000 Capybara\n");
   for (i=0;i<N; i++)
     printf("%5d %-25s %5.2f\n", ID[i], Name[i], GPA[i]); 
   printf("-------------------------------------\n");
